@@ -1,4 +1,3 @@
-# tenisluxo.github.io
 <!DOCTYPE html>
 
 <!– Importei as bibliotecas para utilizar a Realidade Aumentada –>
